@@ -1,0 +1,1452 @@
+[
+  {
+    "country": "Afghanistan",
+    "timezone": "UTC+04:30",
+    "notes": ""
+  },
+  {
+    "country": "Albania",
+    "timezone": "UTC+01:00",
+    "notes": "(CET)"
+  },
+  {
+    "country": "Algeria",
+    "timezone": "UTC+01:00",
+    "notes": "(CET)"
+  },
+  {
+    "country": "Andorra",
+    "timezone": "UTC+01:00",
+    "notes": "(CET)"
+  },
+  {
+    "country": "Angola",
+    "timezone": "UTC+01:00",
+    "notes": "(WAT)"
+  },
+  {
+    "country": "Antarctica",
+    "timezone": "UTC+12:00",
+    "notes": "McMurdo Station"
+  },
+  {
+    "country": "Antarctica",
+    "timezone": "UTC+11:00",
+    "notes": "Casey Station, Macquarie Island"
+  },
+  {
+    "country": "Antarctica",
+    "timezone": "UTC+10:00",
+    "notes": "Dumont-d'Urville Station"
+  },
+  {
+    "country": "Antarctica",
+    "timezone": "UTC+07:00",
+    "notes": "(UTC+07:00) Davis Station"
+  },
+  {
+    "country": "Antarctica",
+    "timezone": "UTC+06:00",
+    "notes": "Vostok Station"
+  },
+  {
+    "country": "Antarctica",
+    "timezone": "UTC+05:00",
+    "notes": "Mawson Station"
+  },
+  {
+    "country": "Antarctica",
+    "timezone": "UTC+03:00",
+    "notes": "(UTC+03:00) Syowa Station"
+  },
+  {
+    "country": "Antarctica",
+    "timezone": "UTC±00:00",
+    "notes": "(GMT) Troll Station"
+  },
+  {
+    "country": "Antarctica",
+    "timezone": "UTC−03:00",
+    "notes": "(ART) Palmer Station, Rothera Station"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "timezone": "UTC−04:00",
+    "notes": "(AST)"
+  },
+  {
+    "country": "Argentina",
+    "timezone": "UTC−03:00",
+    "notes": "(ART)"
+  },
+  {
+    "country": "Armenia",
+    "timezone": "UTC+04:00",
+    "notes": ""
+  },
+  {
+    "country": "Australia",
+    "timezone": "UTC+11:00",
+    "notes": "(NFT) Norfolk Island"
+  },
+  {
+    "country": "Australia",
+    "timezone": "UTC+10:30",
+    "notes": "Lord Howe Island"
+  },
+  {
+    "country": "Australia",
+    "timezone": "UTC+10:00",
+    "notes": "(AEST) Queensland, New South Wales, Australian Capital Territory, Victoria, Tasmania"
+  },
+  {
+    "country": "Australia",
+    "timezone": "UTC+09:30",
+    "notes": "(ACST) South Australia, Northern Territory, New South Wales (Yancowinna County)"
+  },
+  {
+    "country": "Australia",
+    "timezone": "UTC+08:45",
+    "notes": "(CWT) – South Australia (Border Village), Western Australia (Caiguna, Eucla, Madura, Mundrabilla)"
+  },
+  {
+    "country": "Australia",
+    "timezone": "UTC+08:00",
+    "notes": "(AWST) Western Australia, Indian Pacific railroad when travelling between Port Augusta, South Australia and Kalgoorlie, Western Australia)"
+  },
+  {
+    "country": "Australia",
+    "timezone": "UTC+07:00",
+    "notes": "(CXT) Christmas Island"
+  },
+  {
+    "country": "Australia",
+    "timezone": "UTC+06:30",
+    "notes": "Cocos (Keeling) Islands"
+  },
+  {
+    "country": "Australia",
+    "timezone": "UTC+05:00",
+    "notes": "Heard and McDonald Islands"
+  },
+  {
+    "country": "Austria",
+    "timezone": "UTC+01:00",
+    "notes": "(CET)"
+  },
+  {
+    "country": "Azerbaijan",
+    "timezone": "UTC+04:00",
+    "notes": ""
+  },
+  {
+    "country": "Bahamas",
+    "timezone": "UTC−05:00",
+    "notes": "(EST)"
+  },
+  {
+    "country": "Bahrain",
+    "timezone": "UTC+03:00",
+    "notes": ""
+  },
+  {
+    "country": "Bangladesh",
+    "timezone": "UTC+06:00",
+    "notes": "(BST)"
+  },
+  {
+    "country": "Barbados",
+    "timezone": "UTC−04:00",
+    "notes": ""
+  },
+  {
+    "country": "Belarus",
+    "timezone": "UTC+03:00",
+    "notes": "(FET)"
+  },
+  {
+    "country": "Belgium",
+    "timezone": "UTC+01:00",
+    "notes": "(CET)"
+  },
+  {
+    "country": "Belize",
+    "timezone": "UTC−06:00",
+    "notes": ""
+  },
+  {
+    "country": "Benin",
+    "timezone": "UTC+01:00",
+    "notes": "(WAT)"
+  },
+  {
+    "country": "Bhutan",
+    "timezone": "UTC+06:00",
+    "notes": "(BTT)"
+  },
+  {
+    "country": "Bolivia",
+    "timezone": "UTC−04:00",
+    "notes": ""
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "timezone": "UTC+01:00",
+    "notes": "(CET)"
+  },
+  {
+    "country": "Botswana",
+    "timezone": "UTC+02:00",
+    "notes": "(CAT)"
+  },
+  {
+    "country": "Brazil",
+    "timezone": "UTC−02:00",
+    "notes": "(Brasília time +1) few islands on the east coast of Brazil (Fernando de Noronha, Trindade and Martim Vaz, Rocas Atoll, Saint Peter and Saint Paul Archipelago)"
+  },
+  {
+    "country": "Brazil",
+    "timezone": "UTC−03:00",
+    "notes": "(Brasília time) the Southeast Region, the South Region, the Northeast Region (except some islands), Goiás, Distrito Federal, Tocantins, Pará, Amapá"
+  },
+  {
+    "country": "Brazil",
+    "timezone": "UTC−04:00",
+    "notes": "(Brasília time −1) Most part of the Amazonas State, Mato Grosso, Mato Grosso do Sul, Rondônia, Roraima"
+  },
+  {
+    "country": "Brazil",
+    "timezone": "UTC−05:00",
+    "notes": "(Brasília time −2) Acre and Southwestern Amazonas"
+  },
+  {
+    "country": "Brunei",
+    "timezone": "UTC+08:00",
+    "notes": ""
+  },
+  {
+    "country": "Bulgaria",
+    "timezone": "UTC+02:00",
+    "notes": "(EET)"
+  },
+  {
+    "country": "Burkina Faso",
+    "timezone": "UTC±00:00",
+    "notes": ""
+  },
+  {
+    "country": "Burundi",
+    "timezone": "UTC+02:00",
+    "notes": "(CAT)"
+  },
+  {
+    "country": "Cambodia",
+    "timezone": "UTC+07:00",
+    "notes": ""
+  },
+  {
+    "country": "Cameroon",
+    "timezone": "UTC+01:00",
+    "notes": "(WAT)"
+  },
+  {
+    "country": "Canada",
+    "timezone": "UTC−03:30",
+    "notes": "(NT) Labrador (southeastern), Newfoundland"
+  },
+  {
+    "country": "Canada",
+    "timezone": "UTC−04:00",
+    "notes": "(AT) Labrador (all but southeastern tip), New Brunswick, Nova Scotia, Prince Edward Island, eastern part of Quebec"
+  },
+  {
+    "country": "Canada",
+    "timezone": "UTC−05:00",
+    "notes": "(ET) Nunavut east of 85°W and entire Southampton Island, Ontario east of 90°W (except Big Trout Lake area) plus several more western areas, Quebec (most of province)"
+  },
+  {
+    "country": "Canada",
+    "timezone": "UTC−06:00",
+    "notes": "(CT) Manitoba, Nunavut (between 85° West and 102°W except western Southampton Island), Ontario (Northwestern Ontario west of 90°W with some exceptions and Big Trout Lake area east of 90°W), Saskatchewan except Lloydminster"
+  },
+  {
+    "country": "Canada",
+    "timezone": "UTC−07:00",
+    "notes": "(MT) Alberta, some eastern parts of British Columbia, most of Northwest Territories, Nunavut (west of 102°W and all communities in the Kitikmeot Region), Lloydminster and surrounding area in Saskatchewan"
+  },
+  {
+    "country": "Canada",
+    "timezone": "UTC−08:00",
+    "notes": "(PT) larger western part of British Columbia, Tungsten and the associated Cantung Mine in Northwest Territories, Yukon"
+  },
+  {
+    "country": "Cape Verde",
+    "timezone": "UTC−01:00",
+    "notes": "(Cape Verde Time)"
+  },
+  {
+    "country": "Central African Republic",
+    "timezone": "UTC+01:00",
+    "notes": "(WAT)"
+  },
+  {
+    "country": "Chad",
+    "timezone": "UTC+01:00",
+    "notes": "(WAT)"
+  },
+  {
+    "country": "Chile",
+    "timezone": "UTC−03:00",
+    "notes": "Magallanes and Chilean Antarctica"
+  },
+  {
+    "country": "Chile",
+    "timezone": "UTC−04:00",
+    "notes": "main territory"
+  },
+  {
+    "country": "Chile",
+    "timezone": "UTC−06:00",
+    "notes": "Easter Island"
+  },
+  {
+    "country": "China",
+    "timezone": "UTC+08:00",
+    "notes": "(CST) (Only uses Xinjiang Time unofficially in Tibet and Xinjiang)"
+  },
+  {
+    "country": "Colombia",
+    "timezone": "UTC−05:00",
+    "notes": ""
+  },
+  {
+    "country": "Comoros",
+    "timezone": "UTC+03:00",
+    "notes": "(EAT)"
+  },
+  {
+    "country": "Costa Rica",
+    "timezone": "UTC−06:00",
+    "notes": ""
+  },
+  {
+    "country": "Croatia",
+    "timezone": "UTC+01:00",
+    "notes": "(CET)"
+  },
+  {
+    "country": "Cuba",
+    "timezone": "UTC−05:00",
+    "notes": ""
+  },
+  {
+    "country": "Cyprus",
+    "timezone": "UTC+02:00",
+    "notes": "(EET)"
+  },
+  {
+    "country": "Czech Republic",
+    "timezone": "UTC+01:00",
+    "notes": "(CET) (CRT)"
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "timezone": "UTC+02:00",
+    "notes": "(CAT) provinces of Bas-Uele, Haut-Katanga, Haut-Lomami, Haut-Uele, Kasaï, Kasaï-Central, Kasaï Oriental, Lomami, Lualaba, Maniema, Nord-Kivu, Sankuru, Sud-Kivu, Tanganyika, Tshopo and Ituri Interim Administration"
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "timezone": "UTC+01:00",
+    "notes": "(WAT) provinces of Équateur, Kinshasa, Kongo Central, Kwango, Kwilu, Mai-Ndombe, Mongala, Nord-Ubangi, Sud-Ubangi and Tshuapa"
+  },
+  {
+    "country": "Denmark",
+    "timezone": "UTC+01:00",
+    "notes": "(CET) metropolitan Denmark"
+  },
+  {
+    "country": "Denmark",
+    "timezone": "UTC±00:00",
+    "notes": "Danmarkshavn weather station and surrounding area in Greenland's Tunu county, Faroe Islands"
+  },
+  {
+    "country": "Denmark",
+    "timezone": "UTC−01:00",
+    "notes": "Ittoqqortoormiit and surrounding area in Greenland's Tunu county"
+  },
+  {
+    "country": "Denmark",
+    "timezone": "UTC−03:00",
+    "notes": "most of Greenland, including inhabited south coast and west coast"
+  },
+  {
+    "country": "Denmark",
+    "timezone": "UTC−04:00",
+    "notes": "Thule Air Base in Greenland"
+  },
+  {
+    "country": "Djibouti",
+    "timezone": "UTC+03:00",
+    "notes": "(EAT)"
+  },
+  {
+    "country": "Dominica",
+    "timezone": "UTC−04:00",
+    "notes": ""
+  },
+  {
+    "country": "Dominican Republic",
+    "timezone": "UTC−04:00",
+    "notes": ""
+  },
+  {
+    "country": "East Timor",
+    "timezone": "UTC+09:00",
+    "notes": ""
+  },
+  {
+    "country": "Ecuador",
+    "timezone": "UTC−05:00",
+    "notes": "(Ecuador Time) main territory of Ecuador"
+  },
+  {
+    "country": "Ecuador",
+    "timezone": "UTC−06:00",
+    "notes": "(GALT) Galápagos Province"
+  },
+  {
+    "country": "Egypt",
+    "timezone": "UTC+02:00",
+    "notes": "(EET)"
+  },
+  {
+    "country": "El Salvador",
+    "timezone": "UTC−06:00",
+    "notes": ""
+  },
+  {
+    "country": "Equatorial Guinea",
+    "timezone": "UTC+01:00",
+    "notes": "(WAT)"
+  },
+  {
+    "country": "Eritrea",
+    "timezone": "UTC+03:00",
+    "notes": "(EAT)"
+  },
+  {
+    "country": "Estonia",
+    "timezone": "UTC+02:00",
+    "notes": "(EET)"
+  },
+  {
+    "country": "Eswatini",
+    "timezone": "UTC+02:00",
+    "notes": "(Swaziland)"
+  },
+  {
+    "country": "Ethiopia",
+    "timezone": "UTC+03:00",
+    "notes": "(EAT)"
+  },
+  {
+    "country": "Federated States of Micronesia",
+    "timezone": "UTC+11:00",
+    "notes": "the states of Kosrae and Pohnpei"
+  },
+  {
+    "country": "Federated States of Micronesia",
+    "timezone": "UTC+10:00",
+    "notes": "the states of Chuuk and Yap"
+  },
+  {
+    "country": "Fiji",
+    "timezone": "UTC+12:00",
+    "notes": ""
+  },
+  {
+    "country": "Finland",
+    "timezone": "UTC+02:00",
+    "notes": "(EET)"
+  },
+  {
+    "country": "France",
+    "timezone": "UTC+12:00",
+    "notes": "Wallis and Futuna"
+  },
+  {
+    "country": "France",
+    "timezone": "UTC+11:00",
+    "notes": "New Caledonia"
+  },
+  {
+    "country": "France",
+    "timezone": "UTC+05:00",
+    "notes": "Kerguelen Islands, Îles Saint-Paul and Amsterdam"
+  },
+  {
+    "country": "France",
+    "timezone": "UTC+04:00",
+    "notes": "Réunion, Crozet Islands, Scattered Islands in the Indian Ocean"
+  },
+  {
+    "country": "France",
+    "timezone": "UTC+03:00",
+    "notes": "Mayotte"
+  },
+  {
+    "country": "France",
+    "timezone": "UTC+01:00",
+    "notes": "(CET) Metropolitan France"
+  },
+  {
+    "country": "France",
+    "timezone": "UTC−03:00",
+    "notes": "(PMST) French Guiana, Saint Pierre and Miquelon"
+  },
+  {
+    "country": "France",
+    "timezone": "UTC−04:00",
+    "notes": "(AST) Guadeloupe, Martinique, Saint Barthélemy, Saint Martin"
+  },
+  {
+    "country": "France",
+    "timezone": "UTC−08:00",
+    "notes": "Clipperton Island"
+  },
+  {
+    "country": "France",
+    "timezone": "UTC−09:00",
+    "notes": "Gambier Islands"
+  },
+  {
+    "country": "France",
+    "timezone": "UTC−09:30",
+    "notes": "Marquesas Islands"
+  },
+  {
+    "country": "France",
+    "timezone": "UTC−10:00",
+    "notes": "most of French Polynesia"
+  },
+  {
+    "country": "Gabon",
+    "timezone": "UTC+01:00",
+    "notes": "(WAT)"
+  },
+  {
+    "country": "Gambia",
+    "timezone": "UTC±00:00",
+    "notes": ""
+  },
+  {
+    "country": "Georgia",
+    "timezone": "UTC+04:00",
+    "notes": ""
+  },
+  {
+    "country": "Germany",
+    "timezone": "UTC+01:00",
+    "notes": "(CET)"
+  },
+  {
+    "country": "Ghana",
+    "timezone": "UTC±00:00",
+    "notes": ""
+  },
+  {
+    "country": "Greece",
+    "timezone": "UTC+02:00",
+    "notes": "(EET)"
+  },
+  {
+    "country": "Grenada",
+    "timezone": "UTC−04:00",
+    "notes": ""
+  },
+  {
+    "country": "Guatemala",
+    "timezone": "UTC−06:00",
+    "notes": ""
+  },
+  {
+    "country": "Guinea",
+    "timezone": "UTC±00:00",
+    "notes": ""
+  },
+  {
+    "country": "Guinea-Bissau",
+    "timezone": "UTC±00:00",
+    "notes": ""
+  },
+  {
+    "country": "Guyana",
+    "timezone": "UTC−04:00",
+    "notes": ""
+  },
+  {
+    "country": "Haiti",
+    "timezone": "UTC−05:00",
+    "notes": ""
+  },
+  {
+    "country": "Honduras",
+    "timezone": "UTC−06:00",
+    "notes": ""
+  },
+  {
+    "country": "Hong Kong",
+    "timezone": "UTC+08:00",
+    "notes": "(China) (HKT)"
+  },
+  {
+    "country": "Hungary",
+    "timezone": "UTC+01:00",
+    "notes": "(CET)"
+  },
+  {
+    "country": "Iceland",
+    "timezone": "UTC±00:00",
+    "notes": ""
+  },
+  {
+    "country": "India",
+    "timezone": "UTC+05:30",
+    "notes": "(IST)"
+  },
+  {
+    "country": "Indonesia",
+    "timezone": "UTC+09:00",
+    "notes": "(Eastern Indonesian Standard Time) provinces of Maluku, North Maluku, Papua and West Papua"
+  },
+  {
+    "country": "Indonesia",
+    "timezone": "UTC+08:00",
+    "notes": "(Central Indonesian Standard Time) islands of Sulawesi, Bali, provinces of East Nusa Tenggara, West Nusa Tenggara, East Kalimantan, North Kalimantan and South Kalimantan"
+  },
+  {
+    "country": "Indonesia",
+    "timezone": "UTC+07:00",
+    "notes": "(Western Indonesian Standard Time) islands of Sumatra, Java, provinces of Bangka Belitung Islands, Riau Islands, West Kalimantan and Central Kalimantan"
+  },
+  {
+    "country": "Iran",
+    "timezone": "UTC+03:30",
+    "notes": "(IRST)"
+  },
+  {
+    "country": "Iraq",
+    "timezone": "UTC+03:00",
+    "notes": ""
+  },
+  {
+    "country": "Ireland",
+    "timezone": "UTC±00:00",
+    "notes": "(WET)"
+  },
+  {
+    "country": "Israel",
+    "timezone": "UTC+02:00",
+    "notes": "(IST)"
+  },
+  {
+    "country": "Italy",
+    "timezone": "UTC+01:00",
+    "notes": "(CET)"
+  },
+  {
+    "country": "Ivory Coast",
+    "timezone": "UTC±00:00",
+    "notes": ""
+  },
+  {
+    "country": "Jamaica",
+    "timezone": "UTC−05:00",
+    "notes": ""
+  },
+  {
+    "country": "Japan",
+    "timezone": "UTC+09:00",
+    "notes": "(JST)"
+  },
+  {
+    "country": "Jordan",
+    "timezone": "UTC+02:00",
+    "notes": ""
+  },
+  {
+    "country": "Kazakhstan",
+    "timezone": "UTC+06:00",
+    "notes": "eastern Kazakhstan"
+  },
+  {
+    "country": "Kazakhstan",
+    "timezone": "UTC+05:00",
+    "notes": "western Kazakhstan (Aktobe, Atyrau, Kyzylorda, Mangystau and West Kazakhstan)"
+  },
+  {
+    "country": "Kenya",
+    "timezone": "UTC+03:00",
+    "notes": "(EAT)"
+  },
+  {
+    "country": "Kingdom of the Netherlands",
+    "timezone": "UTC+01:00",
+    "notes": "(CET) main territory of the Netherlands"
+  },
+  {
+    "country": "Kingdom of the Netherlands",
+    "timezone": "UTC−04:00",
+    "notes": "(AST) Caribbean municipalities and constituent countries"
+  },
+  {
+    "country": "Kiribati",
+    "timezone": "UTC+14:00",
+    "notes": "Line Islands"
+  },
+  {
+    "country": "Kiribati",
+    "timezone": "UTC+13:00",
+    "notes": "Phoenix Islands"
+  },
+  {
+    "country": "Kiribati",
+    "timezone": "UTC+12:00",
+    "notes": "Gilbert Islands"
+  },
+  {
+    "country": "Korea, North",
+    "timezone": "UTC+09:00",
+    "notes": "(Pyongyang Time)"
+  },
+  {
+    "country": "Korea, South",
+    "timezone": "UTC+09:00",
+    "notes": "(Korea Standard Time)"
+  },
+  {
+    "country": "Kuwait",
+    "timezone": "UTC+03:00",
+    "notes": "(Arabia Standard Time)"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "timezone": "UTC+06:00",
+    "notes": ""
+  },
+  {
+    "country": "Laos",
+    "timezone": "UTC+07:00",
+    "notes": ""
+  },
+  {
+    "country": "Latvia",
+    "timezone": "UTC+02:00",
+    "notes": "(EET)"
+  },
+  {
+    "country": "Lebanon",
+    "timezone": "UTC+02:00",
+    "notes": "(EET)"
+  },
+  {
+    "country": "Lesotho",
+    "timezone": "UTC+02:00",
+    "notes": ""
+  },
+  {
+    "country": "Liberia",
+    "timezone": "UTC±00:00",
+    "notes": ""
+  },
+  {
+    "country": "Libya",
+    "timezone": "UTC+02:00",
+    "notes": "(EET)"
+  },
+  {
+    "country": "Liechtenstein",
+    "timezone": "UTC+01:00",
+    "notes": "(CET)"
+  },
+  {
+    "country": "Lithuania",
+    "timezone": "UTC+02:00",
+    "notes": "(EET)"
+  },
+  {
+    "country": "Luxembourg",
+    "timezone": "UTC+01:00",
+    "notes": "(CET)"
+  },
+  {
+    "country": "Macau",
+    "timezone": "UTC+08:00",
+    "notes": "(China) (Macau Standard Time)"
+  },
+  {
+    "country": "Madagascar",
+    "timezone": "UTC+03:00",
+    "notes": "(EAT)"
+  },
+  {
+    "country": "Malawi",
+    "timezone": "UTC+02:00",
+    "notes": "(CAT)"
+  },
+  {
+    "country": "Malaysia",
+    "timezone": "UTC+08:00",
+    "notes": "(Malaysian Standard Time)"
+  },
+  {
+    "country": "Maldives",
+    "timezone": "UTC+05:00",
+    "notes": ""
+  },
+  {
+    "country": "Mali",
+    "timezone": "UTC±00:00",
+    "notes": ""
+  },
+  {
+    "country": "Malta",
+    "timezone": "UTC+01:00",
+    "notes": "(CET)"
+  },
+  {
+    "country": "Marshall Islands",
+    "timezone": "UTC+12:00",
+    "notes": ""
+  },
+  {
+    "country": "Mauritania",
+    "timezone": "UTC±00:00",
+    "notes": ""
+  },
+  {
+    "country": "Mauritius",
+    "timezone": "UTC+04:00",
+    "notes": "(Mauritius Time)"
+  },
+  {
+    "country": "Mexico",
+    "timezone": "UTC−05:00",
+    "notes": "(Zone 1 or Southeast Zone) the state of Quintana Roo"
+  },
+  {
+    "country": "Mexico",
+    "timezone": "UTC−06:00",
+    "notes": "(Zone 2 or Central Zone) most of Mexico"
+  },
+  {
+    "country": "Mexico",
+    "timezone": "UTC−07:00",
+    "notes": "(Zone 3 or Pacific Zone) the states of Baja California Sur, Chihuahua, Nayarit, Sinaloa and Sonora"
+  },
+  {
+    "country": "Mexico",
+    "timezone": "UTC−08:00",
+    "notes": "(Zone 4 or Northwest Zone) the state of Baja California"
+  },
+  {
+    "country": "Moldova",
+    "timezone": "UTC+02:00",
+    "notes": "(EET)"
+  },
+  {
+    "country": "Monaco",
+    "timezone": "UTC+01:00",
+    "notes": "(CET)"
+  },
+  {
+    "country": "Mongolia",
+    "timezone": "UTC+08:00",
+    "notes": "most of the country"
+  },
+  {
+    "country": "Mongolia",
+    "timezone": "UTC+07:00",
+    "notes": "the provinces of Khovd, Uvs and Bayan-Ölgii"
+  },
+  {
+    "country": "Montenegro",
+    "timezone": "UTC+01:00",
+    "notes": "(CET)"
+  },
+  {
+    "country": "Morocco",
+    "timezone": "UTC+01:00",
+    "notes": "(CET)"
+  },
+  {
+    "country": "Mozambique",
+    "timezone": "UTC+02:00",
+    "notes": "(CAT)"
+  },
+  {
+    "country": "Myanmar",
+    "timezone": "UTC+06:30",
+    "notes": "(MST)"
+  },
+  {
+    "country": "Namibia",
+    "timezone": "UTC+01:00",
+    "notes": "(WAT)"
+  },
+  {
+    "country": "Nauru",
+    "timezone": "UTC+12:00",
+    "notes": ""
+  },
+  {
+    "country": "Nepal",
+    "timezone": "UTC+05:45",
+    "notes": "(Nepal Time)"
+  },
+  {
+    "country": "New Zealand",
+    "timezone": "UTC+13:00",
+    "notes": "Tokelau"
+  },
+  {
+    "country": "New Zealand",
+    "timezone": "UTC+12:45",
+    "notes": "Chatham Islands"
+  },
+  {
+    "country": "New Zealand",
+    "timezone": "UTC+12:00",
+    "notes": "main territory of New Zealand"
+  },
+  {
+    "country": "New Zealand",
+    "timezone": "UTC−10:00",
+    "notes": "Cook Islands"
+  },
+  {
+    "country": "New Zealand",
+    "timezone": "UTC−11:00",
+    "notes": "Niue"
+  },
+  {
+    "country": "Nicaragua",
+    "timezone": "UTC−06:00",
+    "notes": ""
+  },
+  {
+    "country": "Niger",
+    "timezone": "UTC+01:00",
+    "notes": "(WAT)"
+  },
+  {
+    "country": "Nigeria",
+    "timezone": "UTC+01:00",
+    "notes": "(WAT)"
+  },
+  {
+    "country": "North Macedonia",
+    "timezone": "UTC+01:00",
+    "notes": "(CET)"
+  },
+  {
+    "country": "Norway",
+    "timezone": "UTC+01:00",
+    "notes": "(CET)"
+  },
+  {
+    "country": "Oman",
+    "timezone": "UTC+04:00",
+    "notes": ""
+  },
+  {
+    "country": "Pakistan",
+    "timezone": "UTC+05:00",
+    "notes": "(PKT)"
+  },
+  {
+    "country": "Palau",
+    "timezone": "UTC+09:00",
+    "notes": ""
+  },
+  {
+    "country": "Palestine",
+    "timezone": "UTC+02:00",
+    "notes": ""
+  },
+  {
+    "country": "Panama",
+    "timezone": "UTC−05:00",
+    "notes": ""
+  },
+  {
+    "country": "Papua New Guinea",
+    "timezone": "UTC+11:00",
+    "notes": "Autonomous Region of Bougainville (Bougainville Standard Time)"
+  },
+  {
+    "country": "Papua New Guinea",
+    "timezone": "UTC+10:00",
+    "notes": "most of the country"
+  },
+  {
+    "country": "Paraguay",
+    "timezone": "UTC−04:00",
+    "notes": ""
+  },
+  {
+    "country": "Peru",
+    "timezone": "UTC−05:00",
+    "notes": "(PET)"
+  },
+  {
+    "country": "Philippines",
+    "timezone": "UTC+08:00",
+    "notes": "(PHT)"
+  },
+  {
+    "country": "Poland",
+    "timezone": "UTC+01:00",
+    "notes": "(CET)"
+  },
+  {
+    "country": "Portugal",
+    "timezone": "UTC±00:00",
+    "notes": "(WET) Madeira and the main territory of Portugal"
+  },
+  {
+    "country": "Portugal",
+    "timezone": "UTC−01:00",
+    "notes": "Azores"
+  },
+  {
+    "country": "Qatar",
+    "timezone": "UTC+03:00",
+    "notes": "(Arabia Standard Time)"
+  },
+  {
+    "country": "Republic of the Congo",
+    "timezone": "UTC+01:00",
+    "notes": "(WAT)"
+  },
+  {
+    "country": "Romania",
+    "timezone": "UTC+02:00",
+    "notes": "(EET)"
+  },
+  {
+    "country": "Russia",
+    "timezone": "UTC+12:00",
+    "notes": "(Kamchatka Time) Chukotka and Kamchatka Krai"
+  },
+  {
+    "country": "Russia",
+    "timezone": "UTC+11:00",
+    "notes": "(Magadan Time) Magadan Oblast, eastern Sakha, and Sakhalin Oblast"
+  },
+  {
+    "country": "Russia",
+    "timezone": "UTC+10:00",
+    "notes": "(Vladivostok Time) Jewish Autonomous Oblast, Khabarovsk Krai, Primorsky Krai, and central Sakha Republic"
+  },
+  {
+    "country": "Russia",
+    "timezone": "UTC+09:00",
+    "notes": "(Yakutsk Time) Amur Oblast, western Sakha Republic, and Zabaykalsky Krai"
+  },
+  {
+    "country": "Russia",
+    "timezone": "UTC+08:00",
+    "notes": "(Irkutsk Time) Buryatia and Irkutsk Oblast"
+  },
+  {
+    "country": "Russia",
+    "timezone": "UTC+07:00",
+    "notes": "(Krasnoyarsk Time) Altai Krai, Altai Republic, Kemerovo Oblast, Khakassia, Krasnoyarsk Krai, Novosibirsk Oblast, Tomsk Oblast, and Tuva"
+  },
+  {
+    "country": "Russia",
+    "timezone": "UTC+06:00",
+    "notes": "(Omsk Time) Omsk Oblast"
+  },
+  {
+    "country": "Russia",
+    "timezone": "UTC+05:00",
+    "notes": "(Yekaterinburg Time) Bashkortostan, Chelyabinsk Oblast, Khanty–Mansia, Kurgan Oblast, Orenburg Oblast, Perm Krai, Sverdlovsk Oblast, Tyumen Oblast, and Yamalia"
+  },
+  {
+    "country": "Russia",
+    "timezone": "UTC+04:00",
+    "notes": "(Samara Time) Astrakhan Oblast, Samara Oblast, Saratov Oblast, Udmurtia, and Ulyanovsk Oblast"
+  },
+  {
+    "country": "Russia",
+    "timezone": "UTC+03:00",
+    "notes": "(Moscow Time) Most of European Russia and all railroads throughout Russia"
+  },
+  {
+    "country": "Russia",
+    "timezone": "UTC+02:00",
+    "notes": "(Kaliningrad Time) Kaliningrad Oblast"
+  },
+  {
+    "country": "Rwanda",
+    "timezone": "UTC+02:00",
+    "notes": "(CAT)"
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "timezone": "UTC−04:00",
+    "notes": ""
+  },
+  {
+    "country": "Saint Lucia",
+    "timezone": "UTC−04:00",
+    "notes": ""
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "timezone": "UTC−04:00",
+    "notes": ""
+  },
+  {
+    "country": "Samoa",
+    "timezone": "UTC+13:00",
+    "notes": ""
+  },
+  {
+    "country": "San Marino",
+    "timezone": "UTC+01:00",
+    "notes": "(CET)"
+  },
+  {
+    "country": "Saudi Arabia",
+    "timezone": "UTC+03:00",
+    "notes": "(Arabia Standard Time)"
+  },
+  {
+    "country": "Senegal",
+    "timezone": "UTC±00:00",
+    "notes": ""
+  },
+  {
+    "country": "Serbia",
+    "timezone": "UTC+01:00",
+    "notes": "(CET)"
+  },
+  {
+    "country": "Seychelles",
+    "timezone": "UTC+04:00",
+    "notes": "(Seychelles Time)"
+  },
+  {
+    "country": "Sierra Leone",
+    "timezone": "UTC±00:00",
+    "notes": ""
+  },
+  {
+    "country": "Singapore",
+    "timezone": "UTC+08:00",
+    "notes": "(SST)"
+  },
+  {
+    "country": "Slovakia",
+    "timezone": "UTC+01:00",
+    "notes": "(CET)"
+  },
+  {
+    "country": "Slovenia",
+    "timezone": "UTC+01:00",
+    "notes": "(CET)"
+  },
+  {
+    "country": "Solomon Islands",
+    "timezone": "UTC+11:00",
+    "notes": ""
+  },
+  {
+    "country": "Somalia",
+    "timezone": "UTC+03:00",
+    "notes": "(EAT)"
+  },
+  {
+    "country": "South Africa",
+    "timezone": "UTC+03:00",
+    "notes": "Prince Edward Islands"
+  },
+  {
+    "country": "South Africa",
+    "timezone": "UTC+02:00",
+    "notes": "(South African Standard Time) main territory"
+  },
+  {
+    "country": "South Sudan",
+    "timezone": "UTC+03:00",
+    "notes": "(EAT)"
+  },
+  {
+    "country": "Spain",
+    "timezone": "UTC+01:00",
+    "notes": "(CET) main territory of Spain"
+  },
+  {
+    "country": "Spain",
+    "timezone": "UTC±00:00",
+    "notes": "(WET) Canary Islands"
+  },
+  {
+    "country": "Sri Lanka",
+    "timezone": "UTC+05:30",
+    "notes": "(SLST)"
+  },
+  {
+    "country": "Sudan",
+    "timezone": "UTC+02:00",
+    "notes": ""
+  },
+  {
+    "country": "Suriname",
+    "timezone": "UTC−03:00",
+    "notes": ""
+  },
+  {
+    "country": "Sweden",
+    "timezone": "UTC+01:00",
+    "notes": "(CET)"
+  },
+  {
+    "country": "Switzerland",
+    "timezone": "UTC+01:00",
+    "notes": "(CET)"
+  },
+  {
+    "country": "Syria",
+    "timezone": "UTC+02:00",
+    "notes": "(EET)"
+  },
+  {
+    "country": "São Tomé and Príncipe",
+    "timezone": "UTC+00:00",
+    "notes": ""
+  },
+  {
+    "country": "Taiwan",
+    "timezone": "UTC+08:00",
+    "notes": ""
+  },
+  {
+    "country": "Tajikistan",
+    "timezone": "UTC+05:00",
+    "notes": ""
+  },
+  {
+    "country": "Tanzania",
+    "timezone": "UTC+03:00",
+    "notes": "(EAT)"
+  },
+  {
+    "country": "Thailand",
+    "timezone": "UTC+07:00",
+    "notes": "(THA)"
+  },
+  {
+    "country": "Togo",
+    "timezone": "UTC±00:00",
+    "notes": ""
+  },
+  {
+    "country": "Tonga",
+    "timezone": "UTC+13:00",
+    "notes": ""
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "timezone": "UTC−04:00",
+    "notes": "(AST)"
+  },
+  {
+    "country": "Tunisia",
+    "timezone": "UTC+01:00",
+    "notes": "(CET)"
+  },
+  {
+    "country": "Turkey",
+    "timezone": "UTC+03:00",
+    "notes": "(TRT)"
+  },
+  {
+    "country": "Turkmenistan",
+    "timezone": "UTC+05:00",
+    "notes": ""
+  },
+  {
+    "country": "Tuvalu",
+    "timezone": "UTC+12:00",
+    "notes": ""
+  },
+  {
+    "country": "Uganda",
+    "timezone": "UTC+03:00",
+    "notes": "(EAT)"
+  },
+  {
+    "country": "Ukraine",
+    "timezone": "UTC+03:00",
+    "notes": "Donetsk and Luhansk regions"
+  },
+  {
+    "country": "Ukraine",
+    "timezone": "UTC+02:00",
+    "notes": "(EET) most of the country"
+  },
+  {
+    "country": "United Arab Emirates",
+    "timezone": "UTC+04:00",
+    "notes": ""
+  },
+  {
+    "country": "United Kingdom",
+    "timezone": "UTC+06:00",
+    "notes": "British Indian Ocean Territory"
+  },
+  {
+    "country": "United Kingdom",
+    "timezone": "UTC+02:00",
+    "notes": "(EET) Akrotiri and Dhekelia"
+  },
+  {
+    "country": "United Kingdom",
+    "timezone": "UTC+01:00",
+    "notes": "(CET) Gibraltar"
+  },
+  {
+    "country": "United Kingdom",
+    "timezone": "UTC±00:00",
+    "notes": "(GMT in winter/BST in summer) main territory of the United Kingdom, Saint Helena, Ascension and Tristan da Cunha, Guernsey, Isle of Man, Jersey"
+  },
+  {
+    "country": "United Kingdom",
+    "timezone": "UTC−02:00",
+    "notes": "South Georgia and the South Sandwich Islands"
+  },
+  {
+    "country": "United Kingdom",
+    "timezone": "UTC−03:00",
+    "notes": "(FKST) Falkland Islands"
+  },
+  {
+    "country": "United Kingdom",
+    "timezone": "UTC−04:00",
+    "notes": "(AST) Anguilla, Bermuda, British Virgin Islands, Montserrat"
+  },
+  {
+    "country": "United Kingdom",
+    "timezone": "UTC−05:00",
+    "notes": "Cayman Islands, Turks and Caicos Islands"
+  },
+  {
+    "country": "United Kingdom",
+    "timezone": "UTC−08:00",
+    "notes": "Pitcairn Islands"
+  },
+  {
+    "country": "United States",
+    "timezone": "UTC+12:00",
+    "notes": "(unofficial) Wake Island, McMurdo Station, and Amundsen–Scott South Pole Station"
+  },
+  {
+    "country": "United States",
+    "timezone": "UTC+10:00",
+    "notes": "(ChT) Guam and the Northern Mariana Islands"
+  },
+  {
+    "country": "United States",
+    "timezone": "UTC−04:00",
+    "notes": "(AST) Puerto Rico, the U.S. Virgin Islands"
+  },
+  {
+    "country": "United States",
+    "timezone": "UTC−05:00",
+    "notes": "(ET) Eastern Time zone: roughly a triangle covering all the states from the Great Lakes down to Florida and east to the Atlantic coast"
+  },
+  {
+    "country": "United States",
+    "timezone": "UTC−06:00",
+    "notes": "(CT) Central Time zone: a large area spanning from the Gulf Coast to the Great Lakes"
+  },
+  {
+    "country": "United States",
+    "timezone": "UTC−07:00",
+    "notes": "(MT) Mountain Time zone: the Mountain states plus western parts of some adjacent states"
+  },
+  {
+    "country": "United States",
+    "timezone": "UTC−08:00",
+    "notes": "(PT) Pacific Time zone: the Pacific coast states and most of Nevada"
+  },
+  {
+    "country": "United States",
+    "timezone": "UTC−09:00",
+    "notes": "(AKT) most of the state of Alaska"
+  },
+  {
+    "country": "United States",
+    "timezone": "UTC−10:00",
+    "notes": "(HT) Hawaii, most of the Aleutian Islands, and Johnston Atoll"
+  },
+  {
+    "country": "United States",
+    "timezone": "UTC−11:00",
+    "notes": "(ST) American Samoa, Jarvis Island, Kingman Reef, Midway Atoll and Palmyra Atoll"
+  },
+  {
+    "country": "United States",
+    "timezone": "UTC−12:00",
+    "notes": "(unofficial) Baker Island and Howland Island"
+  },
+  {
+    "country": "Uruguay",
+    "timezone": "UTC−03:00",
+    "notes": ""
+  },
+  {
+    "country": "Uzbekistan",
+    "timezone": "UTC+05:00",
+    "notes": "(Uzbekistan Time)"
+  },
+  {
+    "country": "Vanuatu",
+    "timezone": "UTC+11:00",
+    "notes": ""
+  },
+  {
+    "country": "Vatican City",
+    "timezone": "UTC+01:00",
+    "notes": "(CET)"
+  },
+  {
+    "country": "Venezuela",
+    "timezone": "UTC−04:00",
+    "notes": ""
+  },
+  {
+    "country": "Vietnam",
+    "timezone": "UTC+07:00",
+    "notes": "(Indochina Time)"
+  },
+  {
+    "country": "Yemen",
+    "timezone": "UTC+03:00",
+    "notes": ""
+  },
+  {
+    "country": "Zambia",
+    "timezone": "UTC+02:00",
+    "notes": "(CAT)"
+  },
+  {
+    "country": "Zimbabwe",
+    "timezone": "UTC+02:00",
+    "notes": "(CAT)"
+  }
+]
