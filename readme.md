@@ -1,6 +1,6 @@
-# timezone-by-country
+# Timezone by Country
 
-`timezone-by-country` is a json representing time zones by country.
+Timezone by Country is a json representing time zones by country.
 
 ## References
 
